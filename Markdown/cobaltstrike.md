@@ -64,8 +64,8 @@ spawnto x86 %windir%\syswow64\notepad.exe
 ```
 * Change psexec spawn process
 ```
-ak-settings spanwto_x64 C:\Windows\System32\notepad.exe
-ak-settings spanwto_x86 C:\Windows\System32\notepad.exe
+ak-settings spawnto_x64 C:\Windows\System32\notepad.exe
+ak-settings spawnto_x86 C:\Windows\System32\notepad.exe
 ```
 * Edit c2-profile
 ```
